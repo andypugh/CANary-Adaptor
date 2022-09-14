@@ -25,4 +25,10 @@ You can probably get away with only 16 SIP switches to connect only the data lin
 Note that since making the one in the pictures I have rotated the right column of switches so
 that they all operate in the same direction and also rationalised the row order. 
 
+It is designed to connect directly to a CANary, but with an HD15 gender-changing coupling it can
+be used with the CANary HD15 to 4 x Dsub cables too. 
+
+Bail screws are an unsolved problem. Maybe the case could be modified to incorporate a clip to
+hold the HD15 together. 
+
 ![Here is one I made earlier](Image.jpeg)
