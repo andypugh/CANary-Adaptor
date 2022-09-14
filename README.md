@@ -17,3 +17,6 @@ Additional components:
 OBD2 connector: https://www.aliexpress.com/item/1005001622470354.html
 HD15 socket: Amphenol 10090926-P154VLF https://uk.rs-online.com/web/p/d-sub-connectors/7361510
 SIP switch: APEM SIP-08TV https://uk.rs-online.com/web/p/dip-sip-switches/8772384
+
+
+![Here is one I made earlier](Image.jpeg)
