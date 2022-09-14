@@ -4,8 +4,11 @@ Adaptor to connect an OBD2 port to an ATI CANary
 The zip file contains all the files required to make the PCB, just drop it on to a PCB
 manufacturing web site, choose the colour and pay the fee. 
 Examples:
+
 https://www.seeedstudio.com/fusion_pcb.html
+
 https://cart.jlcpcb.com/quote
+
 Both charge about $5 for 10 boards, and about twice that for shipping. 
 
 You will also need a case, there are 3D printing files in the CASE folder. 
