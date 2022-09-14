@@ -5,8 +5,7 @@ The zip file contains all the files required to make the PCB, just drop it on to
 manufacturing web site, choose the colour and pay the fee. 
 Examples:
 
-https://www.seeedstudio.com/fusion_pcb.html
-
+https://www.seeedstudio.com/fusion_pcb.html   
 https://cart.jlcpcb.com/quote
 
 Both charge about $5 for 10 boards, and about twice that for shipping. 
@@ -17,9 +16,13 @@ countersunk screws
 
 Additional components:
 
-OBD2 connector: https://www.aliexpress.com/item/1005001622470354.html
-HD15 socket: Amphenol 10090926-P154VLF https://uk.rs-online.com/web/p/d-sub-connectors/7361510
-SIP switch: APEM SIP-08TV https://uk.rs-online.com/web/p/dip-sip-switches/8772384
+OBD2 connector: https://www.aliexpress.com/item/1005001622470354.html   
+HD15 socket: Amphenol 10090926-P154VLF https://uk.rs-online.com/web/p/d-sub-connectors/7361510   
+SIP switch x 24: APEM SIP-08TV https://uk.rs-online.com/web/p/dip-sip-switches/8772384   
 
+You can probably get away with only 16 SIP switches to connect only the data lines. 
+
+Note that since making the one in the pictures I have rotated the right column of switches so
+that they all operate in the same direction and also rationalised the row order. 
 
 ![Here is one I made earlier](Image.jpeg)
